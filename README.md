@@ -18,3 +18,36 @@ https://app.gitbook.com/o/Wcd5y06aViTcX2a7xrtb/s/HDDbAYrIQVf71CQVpcpr/
 ```bash
 https://github.com/Samsar4/Ethical-Hacking-Labs/blob/master/5-System-Hacking/10-Covert_TCP.md
 ```
+
+# Cryptography Lin
+```bash
+# Book Mark for Exam
+
+## Exam Command
+```bash
+https://github.com/dhabaleshwar/CEHPractical/blob/main/Everything%20You%20Need.md
+```
+
+## My Gitbook
+
+```bash
+https://app.gitbook.com/o/Wcd5y06aViTcX2a7xrtb/s/HDDbAYrIQVf71CQVpcpr/
+```
+
+## CovertTCP Downloda and Command
+
+```bash
+https://github.com/Samsar4/Ethical-Hacking-Labs/blob/master/5-System-Hacking/10-Covert_TCP.md
+```
+
+# Cryptography BOokmark
+- crack station
+
+```bash
+https://crackstation.net/
+```
+
+- Hash.com
+```bash
+  https://hashes.com/en/decrypt/hash
+```
