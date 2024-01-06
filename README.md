@@ -30,3 +30,13 @@ https://crackstation.net/
 ```bash
   https://hashes.com/en/decrypt/hash
 ```
+# Active Directory Related
+
+```bash
+https://exploit.ph/active-directory-recon-1.html
+```
+
+# Exam Login Page
+```bash
+https://proctor.examspecialists.com/Login.aspx
+```
